@@ -219,5 +219,4 @@ Fork this project and add your username + profile link to the [Census](https://g
  - [thitgorn](https://github.com/thitgorn)
  - [Remorax](https://github.com/Remorax)
  - [MasTerXP](https://github.com/MasTerXP)
-
--[iamsid2](https://github.com/iamsid2)
+ -[iamsid2](https://github.com/iamsid2)
